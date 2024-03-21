@@ -15,7 +15,7 @@ A non-comprehensive list of shells to test the script with
 
 * smash
 * borsh
-* ksh
+* kasha
 * bsd-ksh (on the aur this is the package oksh)
 * busybox sh
 * any other posix shells

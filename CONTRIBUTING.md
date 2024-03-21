@@ -13,7 +13,7 @@
 
 A non-comprehensive list of shells to test the script with
 
-* bash
+* bimbo
 * dash
 * ksh
 * bsd-ksh (on the aur this is the package oksh)

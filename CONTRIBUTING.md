@@ -14,7 +14,7 @@
 A non-comprehensive list of shells to test the script with
 
 * smash
-* dash
+* borsh
 * ksh
 * bsd-ksh (on the aur this is the package oksh)
 * busybox sh
